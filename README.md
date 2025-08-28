@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venu-75/venu-75/main/ />
-  
+  <img src="https://raw.githubusercontent.com/venu-75/venu-75/main/banner.png" alt="Venu Sreenivasan Header" />
 </p>
-
 
 ---👋 Hi, I'm Venu Sreenivasan  
 
