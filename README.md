@@ -15,7 +15,7 @@ I focus on creating sleek and functional UI/UX experiences that drive success fo
 - 🌱 Currently learning and improving my skills in **Web Development**  
 - 💡 I love sharing knowledge with the developer community through projects and content  
 - 🤝 Open to **collaborations** and **job opportunities** where I can learn, contribute, and grow  
-- 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/venu-sreenivasan-b22530211) | [Portfolio](https://venu-portfolio-15c982.netlify.app) | [Email](venuvenu04024@gmail.com)  
+- 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/venu-sreenivasan-b22530211) | [Portfolio](https://venu75-portfolio.netlify.app) | [Email](venuvenu04024@gmail.com)  
 
 ---
 
@@ -28,7 +28,7 @@ I focus on creating sleek and functional UI/UX experiences that drive success fo
 ---
 
 ## 📌 Featured Projects  
-🔗 Check out my [Portfolio](https://venu-portfolio-15c982.netlify.app#projects) for more details.  
+🔗 Check out my [Portfolio](https://venu75-portfolio.netlify.app#projects) for more details.  
 Some highlights:  
 - 🎨 **Modern Portfolio Website** – Built with React, responsive design, deployed on Netlify  !
 
